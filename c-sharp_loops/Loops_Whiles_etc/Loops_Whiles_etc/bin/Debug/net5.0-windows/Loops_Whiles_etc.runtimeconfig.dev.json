@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\SlimReaper\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SlimReaper\\.nuget\\packages"
+    ]
+  }
+}
